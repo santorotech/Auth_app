@@ -21,8 +21,8 @@ Auth_app/
 
 │
 
-└── templates/           # Folder for HTML templates
-    |
+└── templates/     # Folder for HTML templates
+    │
     ├── login.html       # Login page
-    |
+    │
     └── signup.html      # Sign-up page
