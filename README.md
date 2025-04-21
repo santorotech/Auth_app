@@ -12,4 +12,13 @@ A simple user authentication system built with Flask and SQLite. This app allows
 
 ## Folder Structure
 
-. ├── app.py # Main Flask application ├── database.db # SQLite database file (auto-generated) ├── templates/ │ ├── login.html # Login page template │ └── signup.html # Sign-up page template
+## Project Structure
+
+Auth_app/
+│
+├── app.py               # Main Flask application with routes and logic
+├── database.db          # SQLite database (auto-created)
+│
+└── templates/           # Folder for HTML templates
+    ├── login.html       # Login page
+    └── signup.html      # Sign-up page
