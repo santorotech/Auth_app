@@ -10,8 +10,6 @@ A simple user authentication system built with Flask and SQLite. This app allows
 - SQLite database integration
 - Simple HTML interface
 
-## Folder Structure
-
 ## Project Structure
 
 Auth_app/
