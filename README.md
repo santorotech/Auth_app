@@ -14,9 +14,15 @@ A simple user authentication system built with Flask and SQLite. This app allows
 
 Auth_app/
 │
+
 ├── app.py               # Main Flask application with routes and logic
+
 ├── database.db          # SQLite database (auto-created)
+
 │
+
 └── templates/           # Folder for HTML templates
+    
     ├── login.html       # Login page
+    
     └── signup.html      # Sign-up page
